@@ -1,0 +1,43 @@
+revision :
+
+>devloped in late 80's - gudio van rossum - monty pythin's flying circus
+>interactive , interpretative , oop lang - 
+>paradigm - structural and procedural , object oriented and functional 
+>funct- what to do X how to do ;)
+>abc lang 
+
+A - (MAJOR) B - MINOR C- MICRO 
+
+EVOLUTION:
+
+1st feb , 1991 , Verrion Py 0.9.0 
+> includedd exception handaling,module
+
+2nd jan - 1994 py 1.0
+>lamnda , map , fitter and reduce funct
+
+3rd Oct 2000 , ver ... to be continued
+
+KEY FEATURES:
+1. READABILITY - for code block we use indentation ()
+2. FOSS (FREE AND OPEN SOURCE)
+3. PORTABLE
+4. LARGE DEV COMMUNITY
+5. RICH LIB
+6. DYNAMICALLY TYPED AND AUTOMATED GARBAGE COLLECTION lang
+
+popularity of py lang :
+1. pypl index - 
+S.No.   py        MARKETshare Change
+1.      python    28.11%
+
+
+
+pip - pakg install for python
+pypi - py pakg index
+pypi.org - third party py pakg
+
+KEYWORDS:
+
+>import keywords
+>
